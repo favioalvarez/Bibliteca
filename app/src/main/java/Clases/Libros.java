@@ -4,12 +4,14 @@ public class Libros {
     private int farenheith;
     private int revival;
     private int alquimista;
-
+    private int elPoder;
+    private int despertar;
     public Libros() {
-        farenheith = 5000;
-        revival = 12000;
+        farenheith = 7000;
+        revival = 22000;
         alquimista = 45000;
-
+        elPoder = 88000;
+        despertar = 156000;
 
     }
 
